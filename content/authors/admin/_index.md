@@ -68,6 +68,7 @@ highlight_name: false
 ---
 
 Hello I am Zhe Liu! I am currently a Master's student at Georgia Tech. I have been studying in the field of Electrical Engineering for five consecutive years and it is an area that I enjoy a lot and eager to apply what I learned from school to industry. 
+
 I have worked on numerous successful design projects. You can see more details about my experience below. Currently I am looking for an internship opportunity for Summer/Fall 2021. I would be able to hit the ground running and start contributing immediately to your team.
 
 {{< icon name="download" pack="fas" >}} Download my résumé {{< staticref "media/Zhe Liu Resume V4.pdf" "newtab" >}}here{{< /staticref >}}.
