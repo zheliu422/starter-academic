@@ -30,7 +30,7 @@ address:
   country: United States
   country_code: US
 contact_links:
-  - icon: email
+  - icon: envelope
     icon_pack: fas
     name: E-Mail
     link: 'mailto:zliu796@gatech.edu'
